@@ -1,16 +1,16 @@
-### Heart Mate
+# Heart Mate
 
-## Project Overview
+### Project Overview
 
 The data science lifecycle is designed for big data issues and the data science projects. Generally, the data science project consists of seven steps which are problem definition, data collection, data preparation, data exploration, data modeling, model evaluation and model deployment.
 
 The goal of this project is to go through the data science lifecycle steps in order to build a heart disease classification web application by using [UCI heart disease](https://archive.ics.uci.edu/ml/datasets/statlog+(heart)) dataset. This project uses Flask API to deploy the model and build the web application.
 
-## Installation 
+### Installation 
 
 All libraries are available in Anaconda distribution of Python.
 
-## Dataset
+### Dataset
 The dataset has 14 attributes:
 
  - age: age in years.
@@ -29,7 +29,7 @@ The dataset has 14 attributes:
  - target: heart disease (1 = no, 2 = yes).
 
 
-## File Descriptions 
+### File Descriptions 
 
 - `data.csv`: the dataset file.
 - `Heart_Disease_Classification.ipynb`: contains the code of data exploration, preparation and modeling. 
